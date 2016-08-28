@@ -2,15 +2,15 @@
 
 ###RESTful Interface to Search and Index movies.
 
-Supports - 
 
 ####Incremental Indexing - Delta changes or updates.
 
 ####Full Catalog Indexing - Entire movie catalog can be reindexed.
 
-SLAs 
+####SLAs 
 
 90% queries response time - Order 10 m-secs
+
 90-99% queries response time - Order 100 m-secs
 
 ###Dependencies
