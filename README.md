@@ -3,9 +3,13 @@
 ###RESTful Interface to Search and Index movies.
 
 
-####Incremental Indexing - Delta changes or updates.
+####Incremental Indexing 
 
-####Full Catalog Indexing - Entire movie catalog can be reindexed.
+Delta changes or updates.
+
+####Full Catalog Indexing
+
+Entire movie catalog can be reindexed.
 
 ####SLAs 
 
