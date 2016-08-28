@@ -1,12 +1,12 @@
 # Movie Search Service - SOLR/Lucene based Search Service
 
-RESTful Interface to Search and Index movies.
+###RESTful Interface to Search and Index movies.
 
 Supports - 
 
-Incremental Indexing - Delta changes or updates.
+####Incremental Indexing - Delta changes or updates.
 
-Full Catalog Indexing - Entire movie catalog can be reindexed.
+####Full Catalog Indexing - Entire movie catalog can be reindexed.
 
 SLAs 
 
