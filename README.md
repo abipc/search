@@ -1,33 +1,26 @@
+# Movie Search Service - SOLR/Lucene based Search Service
+
 ###Dependencies
 ######For versions checkout pom.xml
 
-Spring 
+Apache Solr
 
-Joda
+SolrJ
+
+Spring 
 
 Maven
 
 Java
 
-JSTL
-
-Servlet API
 
 JUnit
 
-MongoDB
 
 Jackson
 
-Log4J and JCL 
 
 Apache HTTP Client
-
-Javax Mail
-
-Java Melody
-
-
 
 
 ###How to build
